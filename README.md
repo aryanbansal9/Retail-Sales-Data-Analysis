@@ -29,5 +29,5 @@ The dashboard was designed with a focus on user experience, treating the canvas 
 5. **Sales Trends:** Following a downward trajectory from 2009–2011, overall sales demonstrated a strong rebound entering 2012.
 
 ## 🚀 How to View the Project
-1. **Static Report:** [View the High-Resolution PDF Export](link-to-your-pdf-file-here)
-2. **Source File:** Download the `3Skill Project 1.pbix` file in this repository to explore the DAX measures and data model directly in Power BI Desktop.
+1. Static Report: [View the High-Resolution PDF Export](Data%20Analytics%20Project%201.pdf)
+2. **Source File:** Download the `Data Analytics Project 1.pbix` file in this repository to explore the DAX measures and data model directly in Power BI Desktop.
